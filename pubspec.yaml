@@ -1,6 +1,6 @@
 name: flutter_hooks_async_utils
 description: "Hook utility for asynchronous tasks."
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/hpoul/flutter_hooks_async_utils
 
 environment:

@@ -1,3 +1,8 @@
+
+Replaced with https://pub.dev/packages/hooks_async_utils
+
+https://github.com/hpoul/flutter_async_utils/tree/master/packages/hooks_async_utils
+
 # flutter_hooks_async_utils
 
 flutter_hooks version of https://pub.dev/packages/flutter_async_utils
